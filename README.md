@@ -1,5 +1,20 @@
 # CS4248-project
 
+### Preprocessing
+
+### Naive Bayes
+
+### tf-idf + NN
+
+### LSTM
+
+
+### LSTM1 (Single Model)
+The model LSTM1 makes use of features extracted using preprocessing (pseudo-LIWC and RFE) using dense layers, as well as text input using LSTM. It is the same model as the 'Single model' memtioned in our poster.
+
+### LSTM2 (Dual Model)
+The model LSTM2 effectively makes use of features extracted using preprocessing (pseudo-LIWC and RFE) using dense layers, as well as text input using LSTM. It is the same model as the 'dual model' memtioned in our poster.
+
 ### GPT
 
 There are 2 files for GPT, one for the standard fine-tuning without preprocessing and the other incorporates the features into the final layer. These notebooks were run in Kaggle. The notebooks include the hyperparameters that produced thge best results, but note that some of the cell outputs were from later runs which were not the best. Simply run the cells in sequence to reproduce the output.
