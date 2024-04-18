@@ -41,5 +41,6 @@ There is only 1 file for BERT. It includes the training codes of BERT both with 
 The code used to generate the summarized datasets can be found in the file generate_summarized_datasets.ipynb; simply run each code cell in order, ensuring that the path to the original Labeled Unreliable News dataset is appropriately set. The generated summarized datasets can be found in the summarized_datasets.zip file.
 
 ### Results
+
 ![Results](./table.jpg)
 
