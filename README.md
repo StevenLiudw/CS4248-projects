@@ -7,3 +7,7 @@ There are 2 files for GPT, one for the standard fine-tuning without preprocessin
 ### BERT
 
 There is only 1 file for BERT. It includes the training codes of BERT both with and without summarized text. They were run in local machine, with CPU training. To train the BERT model with the code, choose from 3 of the cells for the input data first, and then run the remaining cells in sequence.
+
+### Extractive Summarization
+
+The code used to generate the summarized datasets can be found in the file generate_summarized_datasets.ipynb; simply run each code cell in order, ensuring that the path to the original Labeled Unreliable News dataset is appropriately set. The generated summarized datasets can be found in the summarized_datasets.zip file.
