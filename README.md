@@ -1,5 +1,4 @@
 # CS4248-project
-![Poster](./poster_image.jpg)
 
 ### Abstract
 
